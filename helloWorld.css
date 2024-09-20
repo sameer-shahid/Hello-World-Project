@@ -1,0 +1,6 @@
+/* styles.css */
+.header h1 {
+    color: #3498db; /* This is a shade of blue. You can replace this with any color of your choice */
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
